@@ -1,0 +1,6 @@
+pandas
+time
+datetime
+pyttsx3
+winotify
+openpyxl
